@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/mahmuud/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/hodapop193">
+  <a href="https://www.hackerrank.com/profile/mahmuud">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://leetcode.com/u/ma-hmuud/">
