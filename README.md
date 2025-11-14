@@ -56,7 +56,7 @@
   <a href="mailto:mahmoud.ahmed.25.9.24@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mahmoud-ma/">
+  <a href="https://www.linkedin.com/in/mahmuud/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/hodapop193">
