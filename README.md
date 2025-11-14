@@ -62,7 +62,7 @@
   <a href="https://www.hackerrank.com/profile/hodapop193">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://leetcode.com/u/morg_ma/">
+  <a href="https://leetcode.com/u/ma-hmuud/">
       <img src="https://shopallpremium.com/wp-content/uploads/2022/02/LeetCode_logo_rvs.png" width="47" height="35"/>
     </a>
 </div>
