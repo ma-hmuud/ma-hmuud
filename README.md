@@ -46,4 +46,4 @@ const mahmoud = {
 
 ---
 
-<img src="https://raw.githubusercontent.com/morg-ma/morg-ma/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ma-hmuud/ma-hmuud/output/snake.svg" alt="Snake animation" />
