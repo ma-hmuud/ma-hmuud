@@ -14,6 +14,12 @@
 ```javascript
 const mahmoud = {
   pronouns: "he" | "him",
+  env: {
+    os: "Arch Linux",
+    wm: "Niri WM",
+    shell: "fish",
+    editor: "Cursor"  
+  },
   code: [
     "Javascript",
     "Typescript",
