@@ -18,7 +18,7 @@ const mahmoud = {
     os: "Arch Linux",
     wm: "Niri WM",
     shell: "fish",
-    editor: "Cursor"  
+    editor: ["Cursor", "Zed"]  
   },
   code: [
     "Javascript",
@@ -36,7 +36,7 @@ const mahmoud = {
   ],
   architecture: ["Clean Architecture", "MVC"],
   techCommunities: {
-    itMember: "Project Engine",
+    instructor: "Project Engine"
     contentWriter: "HackerRank Campus Club",
   },
 };
