@@ -36,7 +36,8 @@ const mahmoud = {
   ],
   stacks: [
     ["ASP.NET", "EF core", "SQL Server"],
-    ["Express.js", "Node.js", "Drizzle ORM", "PostgreSQL"],
+    ["Express.js", "Nest.js", "Node.js", "Drizzle ORM", "PostgreSQL"],
+    ["Next.js", "React", "Tanstack React Query", "Tailwind.css"],
   ],
   architecture: ["Clean Architecture", "MVC"],
   techCommunities: {
